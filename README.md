@@ -7,7 +7,7 @@
 
 ## Tabla de Contenido
 
-**[Unidad 1. ](#Unidad-1-Introducción-y-Balance-Hídrico)**,
+**[Unidad 1. ](#Unidad-1-Introducción-y-Balance-Hídrico)**.
 **[Unidad 2. ](#Precipitación-y-Nieve)**
 **[Unidad 3. ](#Unidad-1-Interacción-entre-las-aguas-superficiales-y-las-aguas-subterráneas-y-su-impacto-en-las-planicies-de-inundación)**
 **[Unidad 4. ](#Unidad-1-Interacción-entre-las-aguas-superficiales-y-las-aguas-subterráneas-y-su-impacto-en-las-planicies-de-inundación)**
