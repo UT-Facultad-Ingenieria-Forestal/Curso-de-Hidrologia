@@ -19,10 +19,9 @@
 **[Salida Práctica. ](#Salida-práctica)**
 **[Parcial Final. ](#Parcial-Final)**
 
-<h1 align="center">Unidad 1.Unidad 1 Introducción y Balance Hídrico</h1>
+<h1 align="center">Unidad 1. Introducción y Balance Hídrico</h1>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a8ec44c6-84e3-4ae0-9703-983494c3ad62" alt="Sublime's custom image"width="500"
-</p>
+
 
 
 ### Contenidos :
