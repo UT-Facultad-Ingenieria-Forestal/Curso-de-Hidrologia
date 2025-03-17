@@ -52,6 +52,6 @@
 <h1 align="center">Parcial Final</h1>
 <p align="center">
 
-### Contenidos :
+
 
 
