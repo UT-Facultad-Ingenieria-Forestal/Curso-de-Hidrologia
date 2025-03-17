@@ -26,7 +26,7 @@
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
 ### Video 1
 <p align="center">
- <a href="[https://www.youtube.com/watch?v=QEZKxXFp2Uc](https://www.youtube.com/watch?v=fUs6T-vsvbI)" target="_blank">
+ <a href="[https://www.youtube.com/watch?v=QEZKxXFp2Uc] target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
