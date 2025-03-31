@@ -22,7 +22,7 @@
 
 ---
 
-## Unidad 1. Introducción y Balance Hídrico
+## Unidad 1. Introduccion y Balance Hidrico
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/24c5d71b-7ec4-4e77-96bc-af6a98781a33"width="600">
