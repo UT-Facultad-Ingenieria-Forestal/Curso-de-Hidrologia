@@ -10,14 +10,14 @@
 
 ## [Unidad 1. Introducción y Balance Hídrico](#unidad-1-introduccion-y-balance-hidrico)
 ## [Unidad 2. Precipitación y Nieve](#unidad-2-precipitacion-y-nieve)
-## [Unidad 3. Evaporación y Transpiración](#unidad-3-evaporación-y-transpiración)
+## [Unidad 3. Evaporación y Transpiración](#unidad-3-evaporacion-y-transpiracion)
 ## [Unidad 4. Movimiento del Agua en el Suelo](#unidad-4-movimiento-del-agua-en-el-suelo)
 ## [Unidad 5. Caudal](#unidad-5-caudal)
 ## [Unidad 6. Cuenca y Red de Drenaje](#unidad-6-cuenca-y-red-de-drenaje)
-## [Unidad 7. Conceptos Hidrogeológicos](#unidad-7-conceptos-hidrogeológicos)
-## [Unidad 8. Teoría del Flujo del Agua Subterránea](#unidad-8-teoría-del-flujo-del-agua-subterránea)
-## [Unidad 9. Modelación Numérica del Balance Hídrico](#unidad-9-modelación-numérica-del-balance-hídrico)
-## [Salida Práctica](#salida-práctica)
+## [Unidad 7. Conceptos Hidrogeológicos](#unidad-7-conceptos-hidrogeologicos)
+## [Unidad 8. Teoría del Flujo del Agua Subterránea](#unidad-8-teoria-del-flujo-del-agua-subterranea)
+## [Unidad 9. Modelación Numérica del Balance Hídrico](#unidad-9-modelacion-numerica-del-balance-hidrico)
+## [Salida Práctica](#salida-practica)
 ## [Parcial Final](#parcial-final)
 
 ---
@@ -90,7 +90,7 @@
 
 
 
-## Unidad 3. Evaporación y Transpiración
+## Unidad 3. Evaporacion y Transpiracion
 (Contenido de la Unidad 3)
 
 ## Unidad 4. Movimiento del Agua en el Suelo
@@ -102,16 +102,16 @@
 ## Unidad 6. Cuenca y Red de Drenaje
 (Contenido de la Unidad 6)
 
-## Unidad 7. Conceptos Hidrogeológicos
+## Unidad 7. Conceptos Hidrogeologicos
 (Contenido de la Unidad 7)
 
-## Unidad 8. Teoría del Flujo del Agua Subterránea
+## Unidad 8. Teoria del Flujo del Agua Subterranea
 (Contenido de la Unidad 8)
 
-## Unidad 9. Modelación Numérica del Balance Hídrico
+## Unidad 9. Modelacion Numerica del Balance Hidrico
 (Contenido de la Unidad 9)
 
-## Salida Práctica
+## Salida Practica
 (Descripción de la salida práctica)
 
 ## Parcial Final
