@@ -9,7 +9,7 @@
 # Tabla de Contenido
 
 ## [Unidad 1. Introducción y Balance Hídrico](#unidad-1-introduccion-y-balance-hidrico)
-## [Unidad 2. Precipitación y Nieve](#unidad-2-precipitación-y-nieve)
+## [Unidad 2. Precipitación y Nieve](#unidad-2-precipitacion-y-nieve)
 ## [Unidad 3. Evaporación y Transpiración](#unidad-3-evaporación-y-transpiración)
 ## [Unidad 4. Movimiento del Agua en el Suelo](#unidad-4-movimiento-del-agua-en-el-suelo)
 ## [Unidad 5. Caudal](#unidad-5-caudal)
@@ -49,7 +49,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
   
-## Unidad 2. Precipitación y Nieve
+## Unidad 2. Precipitacion y Nieve
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d8099ed3-197a-40d7-9728-8479204eda2b"width="600">
