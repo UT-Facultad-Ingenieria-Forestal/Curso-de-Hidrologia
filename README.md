@@ -51,6 +51,11 @@
   
 ## Unidad 2. Precipitación y Nieve
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8099ed3-197a-40d7-9728-8479204eda2b"width="600">
+</p> 
+
+
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 2
 
 ### Video 1
