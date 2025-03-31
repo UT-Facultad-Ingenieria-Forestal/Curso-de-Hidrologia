@@ -24,6 +24,11 @@
 
 ## Unidad 1. Introducción y Balance Hídrico
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24c5d71b-7ec4-4e77-96bc-af6a98781a33"width="600">
+</p> 
+
+
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
 
 ### Video 1
