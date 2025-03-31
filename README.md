@@ -1,8 +1,9 @@
 # <h1 align="center"> CURSO DE HIDROLOGÍA Y MODELACIÓN NUMÉRICA 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/833c7222-cf2d-45de-8e90-2c246d014131"width="600">
+  <img src="https://github.com/user-attachments/assets/905e05bb-5de0-444a-9559-51af4a363eb6"width="600">
 </p> 
+
 
 
 # Tabla de Contenido
