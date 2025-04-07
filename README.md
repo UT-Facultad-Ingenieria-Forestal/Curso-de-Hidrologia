@@ -97,6 +97,10 @@
   <img src="https://github.com/user-attachments/assets/0b6d31e7-f1ee-400d-9894-8fb6ec2d1c6d"width="600">
 </p> 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5189150-b1ca-4975-97e1-44b0327122b1"width="600">
+</p> 
+
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 3
 
