@@ -1,27 +1,33 @@
 # <h1 align="center"> CURSO DE HIDROLOGÍA Y MODELACIÓN NUMÉRICA 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/833c7222-cf2d-45de-8e90-2c246d014131"width="600">
+  <img src="https://github.com/user-attachments/assets/905e05bb-5de0-444a-9559-51af4a363eb6"width="600">
 </p> 
+
 
 
 # Tabla de Contenido
 
-## [Unidad 1. Introducción y Balance Hídrico](#unidad-1-introducción-y-balance-hídrico)
-## [Unidad 2. Precipitación y Nieve](#unidad-2-precipitación-y-nieve)
-## [Unidad 3. Evaporación y Transpiración](#unidad-3-evaporación-y-transpiración)
+## [Unidad 1. Introducción y Balance Hídrico](#unidad-1-introduccion-y-balance-hidrico)
+## [Unidad 2. Precipitación y Nieve](#unidad-2-precipitacion-y-nieve)
+## [Unidad 3. Evaporación y Transpiración](#unidad-3-evaporacion-y-transpiracion)
 ## [Unidad 4. Movimiento del Agua en el Suelo](#unidad-4-movimiento-del-agua-en-el-suelo)
 ## [Unidad 5. Caudal](#unidad-5-caudal)
 ## [Unidad 6. Cuenca y Red de Drenaje](#unidad-6-cuenca-y-red-de-drenaje)
-## [Unidad 7. Conceptos Hidrogeológicos](#unidad-7-conceptos-hidrogeológicos)
-## [Unidad 8. Teoría del Flujo del Agua Subterránea](#unidad-8-teoría-del-flujo-del-agua-subterránea)
-## [Unidad 9. Modelación Numérica del Balance Hídrico](#unidad-9-modelación-numérica-del-balance-hídrico)
-## [Salida Práctica](#salida-práctica)
+## [Unidad 7. Conceptos Hidrogeológicos](#unidad-7-conceptos-hidrogeologicos)
+## [Unidad 8. Teoría del Flujo del Agua Subterránea](#unidad-8-teoria-del-flujo-del-agua-subterranea)
+## [Unidad 9. Modelación Numérica del Balance Hídrico](#unidad-9-modelacion-numerica-del-balance-hidrico)
+## [Salida Práctica](#salida-practica)
 ## [Parcial Final](#parcial-final)
 
 ---
 
-## Unidad 1. Introducción y Balance Hídrico
+## Unidad 1. Introduccion y Balance Hidrico
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24c5d71b-7ec4-4e77-96bc-af6a98781a33"width="600">
+</p> 
+
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 1
 
@@ -43,10 +49,48 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
   
-## Unidad 2. Precipitación y Nieve
-(Contenido de la Unidad 2)
+## Unidad 2. Precipitacion y Nieve
 
-## Unidad 3. Evaporación y Transpiración
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8099ed3-197a-40d7-9728-8479204eda2b"width="600">
+</p> 
+
+
+### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 2
+
+### Video 1
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=BWsVKqut1ks" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+### Video 2
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=W2lIUQc5RgQ" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+### Video 3
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=2fmVNQp3LaQ" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+### Video 4
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=JXSwKmfMZJo" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+### Video 5
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=Ui-VYSB9nOY" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+
+
+## Unidad 3. Evaporacion y Transpiracion
 (Contenido de la Unidad 3)
 
 ## Unidad 4. Movimiento del Agua en el Suelo
@@ -58,16 +102,16 @@
 ## Unidad 6. Cuenca y Red de Drenaje
 (Contenido de la Unidad 6)
 
-## Unidad 7. Conceptos Hidrogeológicos
+## Unidad 7. Conceptos Hidrogeologicos
 (Contenido de la Unidad 7)
 
-## Unidad 8. Teoría del Flujo del Agua Subterránea
+## Unidad 8. Teoria del Flujo del Agua Subterranea
 (Contenido de la Unidad 8)
 
-## Unidad 9. Modelación Numérica del Balance Hídrico
+## Unidad 9. Modelacion Numerica del Balance Hidrico
 (Contenido de la Unidad 9)
 
-## Salida Práctica
+## Salida Practica
 (Descripción de la salida práctica)
 
 ## Parcial Final
