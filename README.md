@@ -112,7 +112,7 @@
 
 ### Video 2
 <p align="center">
- <a href="https://www.youtube.com/watch?v=EuW9Sd3i_mY" target="_blank">
+ <a href="https://www.youtube.com/watch?v=6R9IPbkFkaA">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
