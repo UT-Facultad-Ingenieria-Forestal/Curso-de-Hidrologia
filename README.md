@@ -94,11 +94,11 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d8099ed3-197a-40d7-9728-8479204eda2b"width="600">
+  <img src="https://github.com/user-attachments/assets/0b6d31e7-f1ee-400d-9894-8fb6ec2d1c6d"width="600">
 </p> 
 
 
-### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 2
+### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 3
 
 ### Video 1
 <p align="center">
