@@ -124,6 +124,10 @@
 
 ## Unidad 4. Movimiento del Agua en el Suelo
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae7d4699-89b1-470b-8a43-c9ebbcea6864"600">
+</p> 
+
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 4
 
 ### Video 1
