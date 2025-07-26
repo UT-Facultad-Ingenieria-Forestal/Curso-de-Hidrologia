@@ -18,7 +18,7 @@
 ### 🔵 [Unidad 7. Conceptos Hidrogeológicos](#unidad-7-conceptos-hidrogeologicos)
 ### 🔵 [Unidad 8. Teoría del Flujo del Agua Subterránea](#unidad-8-teoria-del-flujo-del-agua-subterranea)
 ### 🔵 [Unidad 9. Modelación Numérica del Balance Hídrico](#unidad-9-modelacion-numerica-del-balance-hidrico)
-### 🔵 [Salida Práctica](#salida-practica)
+### 🔵 [Salida Practica](#salida-practica)
 ### 🔵 [Parcial Final](#parcial-final)
 
 ---
