@@ -201,6 +201,12 @@
   <img src="https://github.com/user-attachments/assets/e8b729c6-b243-433d-9cad-8e38141438c2"600">
 </p> 
 
+### Haga clic en el ícono de Google Colab para ejecutar el código por celdas. En este entorno, encontrará comentarios descriptivos en cada celda explicando la función del código.
+
+  <td>
+    <a href="https://colab.research.google.com/drive/1szwdrNZdZN0Vr6YZ_KTkPwO4kVrUe4ro" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  </td>
+  <td>
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 6
 
@@ -222,6 +228,13 @@
  <a href="https://www.youtube.com/watch?v=63m8AQZIEYU" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
+
+### Haga clic en el ícono de Google Colab para ejecutar el código por celdas. En este entorno, encontrará comentarios descriptivos en cada celda explicando la función del código.
+
+  <td>
+    <a href="https://colab.research.google.com/drive/11l4y6sjf6N4Ev_xPGrxAQn2Wu89tbnkI?usp=drive_link" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  </td>
+  <td>
 
 ## Unidad 7. Conceptos Hidrogeologicos
 (Contenido de la Unidad 7)
