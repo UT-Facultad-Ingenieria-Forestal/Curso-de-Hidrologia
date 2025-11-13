@@ -201,13 +201,6 @@
   <img src="https://github.com/user-attachments/assets/e8b729c6-b243-433d-9cad-8e38141438c2"600">
 </p> 
 
-### Haga clic en el ícono de Google Colab para ejecutar el código por celdas. En este entorno, encontrará comentarios descriptivos en cada celda explicando la función del código.
-
-  <td>
-    <a href="https://colab.research.google.com/drive/1szwdrNZdZN0Vr6YZ_KTkPwO4kVrUe4ro" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-  </td>
-  <td>
-
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 6
 
 ### Video 1
