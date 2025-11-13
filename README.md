@@ -226,7 +226,7 @@
 
 <td>
     <a href="https://colab.research.google.com/drive/1sKL8cFpemHPc-Vdf81_tN92yw-Jc2eQ0?usp=drive_link" target="_parent">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="120" height="60"/>
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200" height="100"/>
     </a>
 </td>
 
