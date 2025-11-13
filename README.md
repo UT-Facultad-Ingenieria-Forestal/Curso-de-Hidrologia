@@ -222,7 +222,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
-### Haga clic en el ícono de Google Colab para ejecutar el código por celdas. En este entorno, encontrará comentarios descriptivos en cada celda explicando la función del código.
+### Haga clic en el ícono de Google Colab para ejecutar el código por celdas del Practico de la unidad 6. En este entorno, encontrará comentarios descriptivos en cada celda explicando la función del código.
 
   <td>
     <a href="https://colab.research.google.com/drive/1sKL8cFpemHPc-Vdf81_tN92yw-Jc2eQ0?usp=drive_link" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
