@@ -225,7 +225,7 @@
 ### Haga clic en el ícono de Google Colab para ejecutar el código por celdas. En este entorno, encontrará comentarios descriptivos en cada celda explicando la función del código.
 
   <td>
-    <a href="https://colab.research.google.com/drive/11l4y6sjf6N4Ev_xPGrxAQn2Wu89tbnkI?usp=drive_link" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    <a href="https://colab.research.google.com/drive/1sKL8cFpemHPc-Vdf81_tN92yw-Jc2eQ0?usp=drive_link" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
   <td>
 
