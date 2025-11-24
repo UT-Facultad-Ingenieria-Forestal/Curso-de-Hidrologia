@@ -201,7 +201,6 @@
   <img src="https://github.com/user-attachments/assets/e8b729c6-b243-433d-9cad-8e38141438c2"600">
 </p> 
 
-
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 6
 
 ### Video 1
@@ -222,6 +221,14 @@
  <a href="https://www.youtube.com/watch?v=63m8AQZIEYU" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
+
+### Haga clic en el ícono de Google Colab para ejecutar el código por celdas del Práctico de la unidad 6. En este entorno, encontrará comentarios descriptivos en cada celda explicando la función del código.
+
+<td>
+    <a href="https://colab.research.google.com/drive/1sKL8cFpemHPc-Vdf81_tN92yw-Jc2eQ0?usp=drive_link" target="_parent">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200" height="100"/>
+    </a>
+</td>
 
 ## Unidad 7. Conceptos Hidrogeologicos
 (Contenido de la Unidad 7)
