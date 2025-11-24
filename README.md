@@ -239,19 +239,19 @@
 
 ### Video 1
 <p align="center">
- <a href="https://www.youtube.com/watch?v=ajF0DsuuY4k" target="_blank">
+ <a href="https://www.youtube.com/watch?v=te9kXOkrqxc" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
 ### Video 2
 <p align="center">
- <a href="https://www.youtube.com/watch?v=tiuXMG_c8Lo">
+ <a href="https://www.youtube.com/watch?v=NO0lFyW0oS0">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
 ### Video 3
 <p align="center">
- <a href="https://www.youtube.com/watch?v=63m8AQZIEYU" target="_blank">
+ <a href="hhttps://www.youtube.com/watch?v=nwjSK74dS58" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
 </a>
 
