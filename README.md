@@ -232,7 +232,7 @@
 
 ## Unidad 7. Conceptos Hidrogeologicos
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ca6b2dba-21d6-46ca-a7f3-8e4bb5f8ea99"600">
+  <img src="https://github.com/user-attachments/assets/f09a8bf5-c346-44c3-ab73-b6e91f6608f0"600">
 </p> 
 
 ### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 7
