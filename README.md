@@ -231,7 +231,29 @@
 </td>
 
 ## Unidad 7. Conceptos Hidrogeologicos
-(Contenido de la Unidad 7)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca6b2dba-21d6-46ca-a7f3-8e4bb5f8ea99"600">
+</p> 
+
+### Haz clic en los íconos de YouTube para ver videos relacionados con la Unidad 7
+
+### Video 1
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=ajF0DsuuY4k" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+### Video 2
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=tiuXMG_c8Lo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
+
+### Video 3
+<p align="center">
+ <a href="https://www.youtube.com/watch?v=63m8AQZIEYU" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="100" />
+</a>
 
 ## Unidad 8. Teoria del Flujo del Agua Subterranea
 (Contenido de la Unidad 8)
